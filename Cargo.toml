@@ -1,0 +1,7 @@
+[package]
+name = "my-parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sv-parser = { git = "https://github.com/dalance/sv-parser.git" }
